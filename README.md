@@ -1,0 +1,1 @@
+In this Project, I made a trait Queue which performs two functions of enqueue and dequeqe. Then created two classes DoubleQueue and SquareQueue and mix in that trait.DoubleQueue enqueues the element after doubling them and SquareQueue enqueues the element after squaring them, dequeue method will remove the first element from the queue.
